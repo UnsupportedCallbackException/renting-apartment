@@ -25,7 +25,6 @@ So, sit tight, let’s dive in.
 
 ## Prerequisites
 > TL;DR
-
 1. Decide what you want
 2. Cheque book
 3. Co-signer
@@ -38,7 +37,6 @@ What else do you need to have prepared in advance? Definitely, a bank cheque boo
 
 ## Searching
 > TL;DR
-
 1. Search private ads
 2. Serach facebook ads
 3. Call and ask question
