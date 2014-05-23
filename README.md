@@ -16,16 +16,12 @@ The purpose of this guide is to walk you, dear reader, thru the stages that you 
 However, there are many stones under the current. 
 So, sit tight, let’s dive in.
 
----
-
 ## Content
 1. Prerequisites
 2. Searching
 3. Visiting
 4. Signing
 5. Moving
-
----
 
 ## Prerequisites
 > TL;DR
@@ -41,6 +37,14 @@ First of all, you need to define variants that you would be looking for. The mor
 What else do you need to have prepared in advance? Definitely, a bank cheque book. You will use it to pay for the apartment, so, make sure to have 15 spare cheques there. Think of somebody who can co-sign the lease contract with you. Lastly, have laptop with Internet and Facebook account :)
 
 ## Searching
+> TL;DR
+
+1. Search private ads
+2. Serach facebook ads
+3. Call and ask question
+4. Google the neighborhood
+5. Set the visiting date
+
 As I've stated in the prerequisites part, the more you can specify you search criteria, the easier the search will be. Everything matters: location, neighborhood, price, furniture, parking, square meters, pictures, etc. For example, setting the lower limit of square meters (meaning you are not willing to consider apartments less than, let's say, 50 meters) might reduce your search results by 20%. I would also recommend considering ads only with pictures and prices (yad2 has those options). This will automatically filter results from some garbage.
 
 You can conduct the search either by yourself with private ads and with real estate representative. I, personally, prefer the former approach. The majority of real estate brokers usually don't care about your needs. They are sellers, closers. They are ready to persuade you in anything only that you would take a lease and pay them a fee which equals to one month payment to the apartment. 
