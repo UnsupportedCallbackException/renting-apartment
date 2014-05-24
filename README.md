@@ -5,8 +5,8 @@
 ## Introduction
 We all need place to live. Here, in Israel, real estate market is kinda a big bubble. The prices on 2-3 bedroom apartments in the center of the country skyrocketed within last 10 years. So for many of us, it is challenging to own place, sometimes it’s even unnecessary. That's why, renting an apartment is the way to go.
 
-Israel is a great country, but like in other places, everything is not completely straight forward as you wish it would, especially in renting the real estate.
-The purpose of this guide is to walk you, dear reader, thru the stages that you would need to take in order to get your place. The path is, in general, not complicated: 
+Israel is a great country, but like in other places, everything is not completely straight forward as you wish it would, especially in real estate.
+The purpose of this guide is to walk you, dear reader, thru the stages that you would need to take in order to get your place. The path, in general, is simple: 
 
 1. Extensive search of your options
 2. Visiting variants
@@ -56,7 +56,7 @@ Now, where to search? Well, first of all, Israeli sites with private ads:
 3. [WinWin](http://www.winwin.co.il/RealEstate/ForRent/RealEstatePage.aspx)
 4. [City Market](http://www.ctmarket.co.il/%D7%A0%D7%9B%D7%A1%D7%99%D7%9D-%D7%9C%D7%94%D7%A9%D7%9B%D7%A8%D7%94/)
 
-The second type of resource is [Facebook](http://facebook.com).  It has so many different groups about apartments search and rental that you can't imagine. For example, [Secret Haifa Group](https://www.facebook.com/groups/445887735495943/) or [Secret Tel Aviv Group](https://www.facebook.com/groups/secrettelaviv/). Find that corresponds to your location, and keep track of its posts. Something will pop up that you like for sure.
+The second type of resource is [Facebook](http://facebook.com). It has so many different groups about apartments search and rental that you can't imagine. For example, [Secret Haifa Group](https://www.facebook.com/groups/445887735495943/) or [Secret Tel Aviv Group](https://www.facebook.com/groups/secrettelaviv/). Find groups that correspond to your location, and keep track of their posts. Something will pop up that you like, for sure.
 
 Whenever you see the variant that you like, do not hesitate, call right away and ask questions. 
 
