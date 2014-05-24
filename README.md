@@ -121,6 +121,19 @@ Last three checks are usually given to the landlord for insurance purposes. For 
 
 Get the keys.
 
+## Moving
+> TL;DR
+
+1. Update address
+
+Probably, the most pleasurable as well as the most exhausting part. Set up the Internet and update your address in all places where it might show up. Here's a minimal list that you might find useful.
+
+* Ministry of internal affairs
+* Work
+* Kupat holim
+* Bank
+* Insurance company
+* Internet provider
 
 ## Dictionary
 1. **Arnona**: the land tax that is paid to the local municipality from every property
