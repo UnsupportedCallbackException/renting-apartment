@@ -27,14 +27,14 @@ So, sit tight, let’s dive in.
 > TL;DR
 
 1. Decide what you want
-2. Cheque book
+2. Check book
 3. Co-signer
 4. Internet
 5. Facebook account
 
 First of all, you need to define variants that you would be looking for. The more precise you can describe what you want, the less options you would have to go thru. Decide how many rooms you need (in Israel, it’s not American style, 2 rooms apartment means 1 bedroom apartment), with or without furniture, with or without pets, and, of course, choose the location. It might be not so easy. Israel is a small country, so you can easily live in one city, work in another one, and drive just 20 minutes. For example, if you work in Herzliya, you may consider apartment in Herzliya itself if you don’t have a car, or in Kfar Saba, Raanana, Hod-HaSharon, Tel Aviv if you do. 
 
-What else do you need to have prepared in advance? Definitely, a bank cheque book. You will use it to pay for the apartment, so, make sure to have 15 spare cheques there. Think of somebody who can co-sign the lease contract with you. Lastly, have laptop with Internet and Facebook account :)
+What else do you need to have prepared in advance? Definitely, a bank check book. You will use it to pay for the apartment, so, make sure to have 15 spare checks there. Think of somebody who can co-sign the lease contract with you. Lastly, have laptop with Internet and Facebook account :)
 
 ## Searching
 > TL;DR
@@ -69,7 +69,14 @@ Ask the exact address, then go and look at it on [Google Maps](http://maps.googl
 At the end, set the date and time when you can come and see the apartment.
 
 ## Visiting
-*Always come with money or a cheque. Keep reading to know why.*
+> TL;DR
+
+1. Form your opinion about the apartment, landlord.
+2. Ask as many questions as you can.
+3. Write the first check.
+4. Don't sign the contract.
+
+*Always come with money or a check. Keep reading to know why.*
 
 During the visiting, pay attention to everything. Basically, you need to form an opinion about 3 things: neighborhood, apartment itself, and your future landlord.
 
@@ -80,9 +87,9 @@ During the visiting, pay attention to everything. Basically, you need to form an
 * Ask about neighbors, whether they are quite.
 
 #### Apartment
-* Pay attention to whether the appartment is splitted or not. It is a common practice in Israel to take a normal apartment and spilt it in 2 or even 4 parts, and then rent each of them separately for the price of regular apartment.
+* Pay attention to whether the apartment is divided or not. It is a common practice in Israel to take a normal apartment and spilt it in 2 or even 4 parts, and then rent each of them separately for the price of regular apartment.
 * Pay close attention to windows and ceilings.
-* Think whether you have enought space for all you furniture (in case you have any), or what else you might need to buy.
+* Think whether you have enough  space for all you furniture (in case you have any), or what else you might need to buy.
 * Ask about the process of paying bills.
 
 #### Landlord
@@ -93,7 +100,7 @@ Forming an opinion about the landlord might be the hardest task of all. You need
 
 Thus, you can build a psychological portrait about the landlord and about habitants that he/she expects in her apartment.
 
-If you like the apartment and thinking of taking it, do not hesitate - write **the cheque of serious intentions**. Usually, it is a payment for the first month. You are doing it for the owner to stop the search of other habitants to make sure that it won't be gone to other people in several hours. I'm not kidding about this part. The apartment search is very competitive, especially in central districts around Tel Aviv. The next candidate, who comes after you to see the apartment, might take it. If the owner offers you to sign the contract right away, do **NOT** do it. The cheque of intention should be enough to show that you are serious. Take a copy of lease contract to study at home.
+If you like the apartment and thinking of taking it, do not hesitate - write **the check of serious intentions**. Usually, it is a payment for the first month. You are doing it for the owner to stop the search of other habitants to make sure that it won't be gone to other people in several hours. I'm not kidding about this part. The apartment search is very competitive, especially in central districts around Tel Aviv. The next candidate, who comes after you to see the apartment, might take it. If the owner offers you to sign the contract right away, do **NOT** do it. The check of intention should be enough to show that you are serious. Take a copy of lease contract to study at home.
 
 
 ## Dictionary
