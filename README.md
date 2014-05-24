@@ -40,7 +40,7 @@ What else do you need to have prepared in advance? Definitely, a bank cheque boo
 > TL;DR
 
 1. Search private ads
-2. Serach facebook ads
+2. Search facebook ads
 3. Call and ask question
 4. Google the neighborhood
 5. Set the visiting date
@@ -68,6 +68,34 @@ Ask the exact address, then go and look at it on [Google Maps](http://maps.googl
 
 At the end, set the date and time when you can come and see the apartment.
 
+## Visiting
+*Always come with money or a cheque. Keep reading to know why.*
+
+During the visiting, pay attention to everything. Basically, you need to form an opinion about 3 things: neighborhood, apartment itself, and your future landlord.
+
+#### Neighborhood
+* Look around in neighborhood, how clean it is.
+* How dangerous it might b at night.
+* See where the closest grocery stores are.
+* Ask about neighbors, whether they are quite.
+
+#### Apartment
+* Pay attention to whether the appartment is splitted or not. It is a common practice in Israel to take a normal apartment and spilt it in 2 or even 4 parts, and then rent each of them separately for the price of regular apartment.
+* Pay close attention to windows and ceilings.
+* Think whether you have enought space for all you furniture (in case you have any), or what else you might need to buy.
+* Ask about the process of paying bills.
+
+#### Landlord
+Forming an opinion about the landlord might be the hardest task of all. You need to realize that kind a person he/she is, such that she wouldn't give you a hard time in future. Ideally, the good owner is the one that you mostly don't hear from, but helpful when something needs to be taken care of.
+
+* Ask the owner what her/she do for a living.
+* Ask about previous habitants of the apartment and what they did.
+
+Thus, you can build a psychological portrait about the landlord and about habitants that he/she expects in her apartment.
+
+If you like the apartment and thinking of taking it, do not hesitate - write **the cheque of serious intentions**. Usually, it is a payment for the first month. You are doing it for the owner to stop the search of other habitants to make sure that it won't be gone to other people in several hours. I'm not kidding about this part. The apartment search is very competitive, especially in central districts around Tel Aviv. The next candidate, who comes after you to see the apartment, might take it. If the owner offers you to sign the contract right away, do **NOT** do it. The cheque of intention should be enough to show that you are serious. Take a copy of lease contract to study at home.
+
+
 ## Dictionary
-1. **Arnona**: the land tax that is paiyed to the local municipality from every property
+1. **Arnona**: the land tax that is paid to the local municipality from every property
 2. **Vaad bait**: the payment for the house maintenance, e.g. cleaning.
