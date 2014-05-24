@@ -102,7 +102,27 @@ Thus, you can build a psychological portrait about the landlord and about habita
 
 If you like the apartment and thinking of taking it, do not hesitate - write **the check of serious intentions**. Usually, it is a payment for the first month. You are doing it for the owner to stop the search of other habitants to make sure that it won't be gone to other people in several hours. I'm not kidding about this part. The apartment search is very competitive, especially in central districts around Tel Aviv. The next candidate, who comes after you to see the apartment, might take it. If the owner offers you to sign the contract right away, do **NOT** do it. The check of intention should be enough to show that you are serious. Take a copy of lease contract to study at home.
 
+## Signing
+> TL;DR
+
+1. Study carefully
+2. Write checks
+
+Usually, the lease contracts in Israel are standard, but, anyway, study it very carefully before you sign it. Consult with your friends and/or a lawyer. The rent contract is signed for a year, so pay attention to the conditions of breaking before its termination date. Either you should find somebody instead of you or pay a fine. Check the condition of using the security check[3].
+
+Prepare all checks:
+
+* 11 checks for monthly payment (the first one you've already gave during the visiting part)
+* Check for the electricity
+* Check for the water
+* Security check
+
+Last three checks are usually given to the landlord for insurance purposes. For example, if you don't pay the bills for the electricity or water, the landlord can use whose checks to pay instead of you. In case, you cause some serious damage to the apartment (e.g. set it on fire), the security check might be used.
+
+Get the keys.
+
 
 ## Dictionary
 1. **Arnona**: the land tax that is paid to the local municipality from every property
 2. **Vaad bait**: the payment for the house maintenance, e.g. cleaning.
+3. **Security check**: is the payment in the form of check that is given to the landlord. This check can be used in defined circumstances. Usually, in case, you've made a significant damage to the apartment.
